@@ -30,12 +30,18 @@
 
 • **visualize(self)** - визуализация графа
 
+<h2>Пример визуализации</h2>
+
+![1](https://github.com/user-attachments/assets/98a5da98-8ebc-427c-a7b0-00df10156fa0)
+
+![2](https://github.com/user-attachments/assets/af2a6b95-5a41-4f9a-bdf3-ed38ba991cfb)
+
 <h2>Пример использования</h2>
 
-![1](https://github.com/user-attachments/assets/ce46bc88-55ef-4c67-af3a-e127c1758806)
+![3](https://github.com/user-attachments/assets/ce46bc88-55ef-4c67-af3a-e127c1758806)
 
 <h2>Результаты прогона тестов</h2>
 
 Все тесты были успешно пройдены
 
-![2](https://github.com/user-attachments/assets/d857b0c8-2108-4a92-8b49-d7b392cc34a0)
+![4](https://github.com/user-attachments/assets/d857b0c8-2108-4a92-8b49-d7b392cc34a0)
