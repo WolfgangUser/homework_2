@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+     <package>
+       <metadata>
+         <id>MyPackage</id>
+         <version>1.0.0</version>
+         <authors>Zimina Olesia</authors>
+         <description>Инструмент командной строки для анализа и визуализации зависимостей пакетов .NET. Позволяет извлекать прямые и транзитивные зависимости из файлов пакетов (.nupkg) и представлять их в виде графа с использованием формата Graphviz.</description>
+         <dependencies>
+            <dependency id="Newtonsoft.Json" version="13.0.1" />
+            <dependency id="System.Text.Json" version="6.0.0" />
+         </dependencies>
+       </metadata>
+     </package> 

@@ -1,0 +1,5 @@
+program_path = "C:/Program Files/Graphviz/bin/dot.exe"
+package_path = "MyPackage.1.0.0.nupkg"
+output_path = "my_output.dot"
+max_depth = 2
+repo_url = "https://github.com/Lisenkaz/homework_2"
