@@ -30,7 +30,7 @@
 
 • **visualize(self)** - визуализация графа
 
-<h2>Пример визуализации</h2>
+<h2>Примеры визуализации</h2>
 
 ![1](https://github.com/user-attachments/assets/98a5da98-8ebc-427c-a7b0-00df10156fa0)
 
