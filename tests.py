@@ -15,7 +15,7 @@ class TestDependencyVisualizer(unittest.TestCase):  # Создаем класс 
             'package_path': 'MyPackage.1.0.0.nupkg',
             'output_path': 'my_output.dot',
             'max_depth': 1,
-            'repo_url': 'https://github.com/Lisenkaz/homework_2'
+            'repo_url': 'https://github.com/WolfgangUser/homework_2'
         }
         # Инициализируем экземпляр DependencyVisualizer с фиктивными данными конфигурации
         self.visualizer = DependencyVisualizer(self.config)
